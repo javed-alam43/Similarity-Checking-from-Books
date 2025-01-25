@@ -50,6 +50,7 @@ This project analyzes 64 classic books using advanced algorithms to uncover patt
  • similar_books.txt: Closest book pairs.
 
 💡 Note
+
 The program uses a stable, single-threaded design for consistent results.
 
 🤝 Acknowledgments 
