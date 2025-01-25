@@ -1,47 +1,38 @@
- Similarity Checking from Books 📚
+Similarity Checking from Books📚
+🎯 Overview
+This project analyzes 64 classic books using advanced algorithms to uncover patterns and similarities across texts.
 
-🎯 Overview 
-A text analysis project comparing 64 literary works, revealing patterns, thematic connections, and linguistic similarities using advanced algorithms.
+✨ Highlights
+ • Extracts the 100 most significant words.
+ • Creates a 64x64 similarity matrix.
+ • Identifies the top 10 most similar book pairs.
+ • Precisely processes raw text with robust algorithms.
 
-🗝 Key Features 
-- Identifies 100 key words across texts.  
-- Creates a 64x64 similarity matrix.  
-- Highlights top 10 most similar book pairs.  
-- Processes raw text with precision.  
-- Scalable, robust algorithms for comparison.  
+📊 Key Findings
+ • Gerard’s Herbal: 91% similarity between Vol. 3 and 4.
+ • Memoirs of Laetitia Pilkington: Consistent narrative across volumes.
+ • Foxes Book of Martyrs: Maintains thematic focus.
 
-📊 Results
-- *Gerard's Herbal* (91% match between Vol. 3 and 4).  
-- *Memoirs of Laetitia Pilkington* shows narrative consistency.  
-- *Foxe's Book of Martyrs* maintains thematic unity.  
+🛠 Technical Details
+ • Built in C++ with statistical comparison methods.
+ • Processes 64 books with 2,016 pairwise comparisons.
+ • Outputs word frequency analysis and similarity rankings.
 
-🔎 Technical Highlights 
-- Custom `Book` class for text representation.  
-- Statistical and linguistic similarity algorithms.  
-- Word frequency analysis and modular design.  
+🚀 How to Use
+ 1. Clone the repository.
+ 2. Add text files to the specified folder.
+ 3. Compile and run the code.
+ 4. Check output files for results.
 
-👨‍🔧 Tech Stack  
-- **Language:** C++  
-- **Format:** Raw text files  
-- **Methodology:** Statistical comparisons  
+📝 Outputs
+ • common_words.txt: Top 100 words.
+ • similarity_matrix.txt: 64x64 matrix.
+ • similar_books.txt: Closest book pairs.
 
-📈 Performance 
-- Processes 64 books efficiently with 2,016 comparisons.  
-- Outputs similarity rankings and word frequency insights.
+💡 Note
+The program uses a stable, single-threaded design for consistent results.
 
-🌟 Getting Started  
-1. Clone the repository.  
-2. Add text files to the directory.  
-3. Compile and run the C++ files.  
-4. View outputs in the results folder.  
+🤝 Acknowledgments
+Thanks to professors, collaborators, and the open-source community for their support.
 
-📁 Outputs  
-- `common_words.txt`: Top 100 frequent words.  
-- `similarity_matrix.txt`: Similarity scores for all books.  
-- `similar_books.txt`: Top 10 similar book pairs.  
-
-🤖 Technical Note
-Single-threaded for accuracy, with plans to explore parallel processing in future updates.
-
-🤝 Acknowledgments  
-Thanks to mentors, collaborators, and the open-source community for their support.
+Submitted by: IITGCS-24061296 (Javed Alam)
