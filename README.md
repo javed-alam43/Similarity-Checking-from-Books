@@ -27,7 +27,9 @@ This project analyzes 64 classic books using advanced algorithms to uncover patt
 
 📝 Outputs
  • common_words.txt: Top 100 words.
+ 
  • similarity_matrix.txt: 64x64 matrix.
+ 
  • similar_books.txt: Closest book pairs.
 
 💡 Note
