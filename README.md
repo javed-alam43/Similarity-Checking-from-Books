@@ -37,8 +37,4 @@ The program uses a stable, single-threaded design for consistent results.
 
 Submitted by: IITGCS-24061276 (Javed Alam)
 
-🤝 Acknowledgments
-Thanks to professors, collaborators, and the open-source community for their support.
 
-
-Submitted by: IITGCS-24061276 (Javed Alam)
