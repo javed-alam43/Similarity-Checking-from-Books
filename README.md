@@ -1,15 +1,15 @@
 Similarity Checking from Books📚
 
-🎯 Overview
+ Overview
 This project analyzes 64 classic books using advanced algorithms to uncover patterns and similarities across texts.
 
-✨ Highlights
+👁 Highlights
  • Extracts the 100 most significant words.
  • Creates a 64x64 similarity matrix.
  • Identifies the top 10 most similar book pairs.
  • Precisely processes raw text with robust algorithms.
 
-📊 Key Findings
+ Key Findings
  • Gerard’s Herbal: 91% similarity between Vol. 3 and 4.
  • Memoirs of Laetitia Pilkington: Consistent narrative across volumes.
  • Foxes Book of Martyrs: Maintains thematic focus.
