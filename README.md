@@ -1,6 +1,8 @@
 
- Similarity Checking from Books
+ Similarity Checking from Books📚
+ 
  Overview
+ 
 This project analyzes 64 classic books using advanced algorithms to uncover patterns and similarities across texts.
 
 ✨ Highlights
@@ -51,6 +53,7 @@ This project analyzes 64 classic books using advanced algorithms to uncover patt
 The program uses a stable, single-threaded design for consistent results.
 
 🤝 Acknowledgments 
+
 Thanks to professors, collaborators, and the open-source community for their support.
 
 Submitted by: IITGCS-24061276 (Javed Alam)
